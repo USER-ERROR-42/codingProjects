@@ -1,0 +1,49 @@
+Supplier ID;Name;Address;ProductID;VenderPart;Description;Cost;Purchase Qty;Price
+10;Electronics Gadgets Manufacturing Company;221 Silicon Valley Blvd, Mt. View, California, 94039-7542;1298;EG-FA200;Fire Alarm;312;21;500
+20;Mad Scientists' Basement Corporation;714 Old Spring Way, Troutman, North Carolina, 28166;2055;BITE;Book - IT Made Easy;2;74;25
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;5511;4905;Hack Saw;27;30;25
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;8007;S50;Salt (50 Pound Bag);36;50;40
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;2502;4949;Ear Plugs;2;700;3
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;2002;4943;Deluxe First Aid Kit;32;88;50
+10;Electronics Gadgets Manufacturing Company;221 Silicon Valley Blvd, Mt. View, California, 94039-7542;8438;EG-SA100;Security Alarm;544;5;800
+20;Mad Scientists' Basement Corporation;714 Old Spring Way, Troutman, North Carolina, 28166;7490;VTIT;Video Tape - How to teach IT;4.8;32;30
+20;Mad Scientists' Basement Corporation;714 Old Spring Way, Troutman, North Carolina, 28166;1160;BITL;Book - 1001 Computer Lectures;7.5;67;16.75
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;8811;OE-SP;Snow Plow;605;5;745
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;8829;OE-SS;Snow Shovel;12;21;30
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;1822;4933;Paper Plates;0.18;15000;0.25
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;1709;4920;Insect Spray;18;300;2.5
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;1710;4921;Rat Poison;4;652;6
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;2050;4970;Economy Peanut Butter;0.59;489;0.75
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;6822;4952;Bandages (Box of 1,000);4.5;391;6
+20;Mad Scientists' Basement Corporation;714 Old Spring Way, Troutman, North Carolina, 28166;1114;CVDBP;Carlton's Valuable Database Projects;1.25;60;17.85
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;1700;OE-IB;Ironing Board;7;44;25
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5252;IHF;9-Iron Golf Club ;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5253;IHF;8-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5254;IHF;7-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5255;IHF;6-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5256;IHF;5-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5257;IHF;4-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5258;IHF;3-Iron Golf Club;80;33;120
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5260;IHF;Driver Golf Club;150;33;220
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5261;IHF;3-Wood Golf Club;120;33;200
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5262;IHF;5-Wood Golf Club;120;33;200
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5263;CPG;Golf Bag;82;67;150
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5271;SHP;Putter Golf Club;90;77;160
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5291;EGB;Eggshell Golf Balls;12;350;24
+50;Wild Swing Golf;40 Knotts Alley, Agusta Winds, Georgia, 37022;5290;EGB;Golf Club Set with Bag;1000;350;1600
+60;Shocking Electrical Gizmos;18 Toxic Sludge Blvd., Dismal Seepage, NJ, 08608;1298;SEG-50;Fire Alarm;314;8;500
+60;Shocking Electrical Gizmos;18 Toxic Sludge Blvd., Dismal Seepage, NJ, 08608;8438;SEG-80;Security Alarm;505;1;800
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;5530;4901;Saw Blade;2.25;16;6
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;5531;4902;Saw Handle;3.17;17;12
+70;Iron Man Tools;1312 Ena Rd., Honolulu, HI, 96818;5511;IMT-SAW;Hack Saw;31;8;25
+80;Eine-Steen and Frankenburger Supplies;627 Kaumaka Place, Honolulu, HI, 96825;7490;ES-ITV;Video Tape - How to teach IT;4.82;2;30
+15;Alarms and Things, Inc.;100 Brooklin Bridge, New York, NY, 10016;1298;FA15;Fire Alarm;315;3;500
+18;Yamaha Snow Fun;32 Degree Street, Frigid, MN,  48712;9882;ATSM 500;Snowmobile;2300;1;5400
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;866;4976;Grease Remover;1.8;600;4.25
+30;Ultra Cheap Consumables;1840 Stonebook Dr., Knoxville, Tennessee, 37923;3931;4922;Reconstituted Grape Jelly;0.3;239;2.87
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;1705;OE-EB;Blender;6.8;7;30
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;1422;OE-IS;Ice Scraper;0.25;125;3
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;3033;OE-FS;Fly Swatter;0.15;200;1
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;5998;OE-N;Nut (3/4 inch);0.01;1000;0.5
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;5999;OE-B;Bolt (3/4 inch);0.05;1000;1
+40;Odds and Ends Manufacturing;1 Lost Wallet Lane, El Sugundo, CA, 90245;6224;OE-HG;Handle Grip;0.75;500;3.5

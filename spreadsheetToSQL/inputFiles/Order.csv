@@ -1,0 +1,18 @@
+Number;Name;Street Address;City;State;Zip;Credit Limit;Sales Rep;Number;PO Number;Date;Date;Date;Number 1;Description;Quantity;Price;Number 2;Description;Quantity;Price;Number 3;Description;Quantity;Price
+2000;Acme TNT;5460 Dusty Ln.;Wiley;UT;75688; $100,000.00 ;120 ;1515;987;1/14/2017;1/24/2017;;1298;Fire Alarm;1;$500.00 ;8438;Security Alarm;1;$800.00 ;1705;Blender;30;$30.00 
+3876;Hawaii Snow Removal Service;900 Kalanianaole Hwy;Honolulu;HI;96825; $25,000.00 ;180 ;1516;DRE-152;2/2/2017;2/22/2017;2/14/2017;8007;Salt (50 Pound Bag);200;$40.00 ;;;;;;;;
+897;Property Redistributors, Inc.;LA County Jail;Los Angeles;CA;90087;$0.00 ;120 ;1517;1;2/14/2017;2/22/2017;;5511;Hack Saw;1;$25.00 ;;;;;;;;
+2000;Acme TNT;5460 Dusty Ln.;Wiley;UT;75688; $100,000.00 ;120 ;1518;995;2/28/2017;3/4/2017;3/2/2017;2502;Ear Plugs;125;$3.00 ;;;;;;;;
+2000;Acme TNT;5460 Dusty Ln.;Wiley;UT;75688; $100,000.00 ;120 ;1519;1008;3/7/2017;3/21/2017;;2002;Deluxe First Aid Kit;6;$50.00 ;;;;;;;;
+3876;Hawaii Snow Removal Service;900 Kalanianaole Hwy;Honolulu;HI;96825; $25,000.00 ;180 ;1520;DRE-317;4/11/2017;4/15/2017;;8811;Snow Plow;1;$745.00 ;9882;Snowmobile;1;$5,400.00 ;1422;Ice Scraper;6;$3.00 
+1400;CIS Instructor Supply Corporation;3801 West Temple Avenue;Pomona;CA;91768; $400.00 ;150 ;1521;ITIS500;5/12/2017;5/27/2017;;2055;Book - IT Made Easy;1;$25.00 ;;;;;;;;
+1400;CIS Instructor Supply Corporation;3801 West Temple Avenue;Pomona;CA;91768; $400.00 ;150 ;1522;ITIS520;5/27/2017;6/1/2017;5/27/2017;7490;Video Tape - How to teach IT;1;$30.00 ;;;;;;;;
+1400;CIS Instructor Supply Corporation;3801 West Temple Avenue;Pomona;CA;91768; $400.00 ;150 ;1523;ITIS531;5/27/2017;6/16/2017;7/15/2017;1160;Book - 1001 Computer Lectures;1;$16.75 ;1114;Carlton's Valuable Database Projects;1;$17.85 ;;;;
+3876;Hawaii Snow Removal Service;900 Kalanianaole Hwy;Honolulu;HI;96825; $25,000.00 ;180 ;1524;DRE-423;6/13/2017;7/4/2017;7/15/2017;8829;Snow Shovel;3;$30.00 ;;;;;;;;
+377;Leftover Diner;3700 Baseline;Rialto;CA;92377; $100.00 ;180 ;1525;V2-AXR4;7/13/2017;7/15/2017;7/15/2017;1822;Paper Plates;1000;$0.25 ;;;;;;;;
+377;Leftover Diner;3700 Baseline;Rialto;CA;92377; $100.00 ;180 ;1526;V2-AYD3;7/15/2017;7/20/2017;7/19/2017;1709;Insect Spray;10;$2.50 ;;;;;;;;
+377;Leftover Diner;3700 Baseline;Rialto;CA;92377; $100.00 ;180 ;1527;V2-AZJ9;8/16/2017;8/21/2017;8/21/2017;1710;Rat Poison;12;$6.00 ;866;Grease Remover;3;$4.25 ;3033;Fly Swatter;50;$1.00 
+377;Leftover Diner;3700 Baseline;Rialto;CA;92377; $100.00 ;180 ;1528;V2-BBU3;9/16/2017;9/23/2017;9/21/2017;2050;Economy Peanut Butter;30;$0.75 ;3931;Reconstituted Grape Jelly;5;$2.87 ;;;;
+897;Property Redistributors, Inc.;LA County Jail;Los Angeles;CA;90087;$0.00 ;120 ;1529;2;10/4/2017;10/13/2017;;8438;Security Alarm;1;$800.00 ;5290;Golf Club Set with Bag;1;$1,600.00 ;;;;
+3876;Hawaii Snow Removal Service;900 Kalanianaole Hwy;Honolulu;HI;96825; $25,000.00 ;180 ;1530;DRE-611;11/4/2017;11/13/2017;;6822;Bandages (Box of 1,000);2;$6.00 ;2002;Deluxe First Aid Kit;6;$50.00 ;;;;
+377;Leftover Diner;3700 Baseline;Rialto;CA;92377; $100.00 ;180 ;1531;V2-BBU3;12/16/2017;12/23/2017;12/21/2017;2050;Economy Peanut Butter;17;$0.75 ;1710;Rat Poison;12;$6.00 ;;;;
