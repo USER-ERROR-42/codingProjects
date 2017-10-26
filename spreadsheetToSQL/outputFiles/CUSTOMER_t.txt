@@ -1,0 +1,11 @@
+INSERT INTO CUSTOMER_t
+(CustomerID, CustomerName, CustomerStreet, CustomerCity, CustomerState, CustomerZip, CreditLimit, SalesRepID)
+VALUES 
+(2000, 'Acme TNT', '5460 Dusty Ln.', 'Wiley', 'UT', '75688', $100000.00, 120),
+(3876, 'Hawaii Snow Removal Service', '900 Kalanianaole Hwy', 'Honolulu', 'HI', '96825', $25000.00, 180),
+(897, 'Property Redistributors, Inc.', 'LA County Jail', 'Los Angeles', 'CA', '90087', $0.00, 120),
+(1400, 'CIS Instructor Supply Corporation', '3801 West Temple Avenue', 'Pomona', 'CA', '91768', $400.00, 150),
+(377, 'Leftover Diner', '3700 Baseline', 'Rialto', 'CA', '92377', $100.00, 180)
+
+SELECT *
+FROM CUSTOMER_t

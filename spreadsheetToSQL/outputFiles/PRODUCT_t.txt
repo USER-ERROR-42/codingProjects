@@ -1,0 +1,30 @@
+INSERT INTO PRODUCT_t
+(ProductID, ProductDescription, UnitPrice, StockQuantity)
+VALUES 
+(1298, 'Fire Alarm', $500.00, 666666),
+(8438, 'Security Alarm', $800.00, 2853),
+(1705, 'Blender', $30.00, 3847),
+(8007, 'Salt (50 Pound Bag)', $40.00, 400),
+(5511, 'Hack Saw', $25.00, 587),
+(2502, 'Ear Plugs', $3.00, 5814),
+(2002, 'Deluxe First Aid Kit', $50.00, 3993),
+(8811, 'Snow Plow', $745.00, 5348),
+(9882, 'Snowmobile', $5400.00, 4462),
+(1422, 'Ice Scraper', $3.00, 1524),
+(2055, 'Book - IT Made Easy', $25.00, 712),
+(7490, 'Video Tape - How to teach IT', $30.00, 2931),
+(1160, 'Book - 1001 Computer Lectures', $16.75, 5836),
+(1114, 'Carlton''s Valuable Database Projects', $17.85, 5623),
+(8829, 'Snow Shovel', $30.00, 826),
+(1822, 'Paper Plates', $0.25, 5577),
+(1709, 'Insect Spray', $2.50, 5322),
+(1710, 'Rat Poison', $6.00, 3816),
+(866, 'Grease Remover', $4.25, 3024),
+(3033, 'Fly Swatter', $1.00, 1714),
+(2050, 'Economy Peanut Butter', $0.75, 740),
+(3931, 'Reconstituted Grape Jelly', $2.87, 422),
+(5290, 'Golf Club Set with Bag', $1600.00, 2784),
+(6822, 'Bandages (Box of 1,000)', $6.00, 5441)
+
+SELECT *
+FROM PRODUCT_t

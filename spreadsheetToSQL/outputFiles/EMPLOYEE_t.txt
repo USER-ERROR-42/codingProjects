@@ -1,0 +1,22 @@
+INSERT INTO EMPLOYEE_t
+(EmployeeID, EmployeeFirstName, EmployeeJobTitle, EmployeeHireDate, EmployeeStreet, EmployeeCity, EmployeeState, EmployeeZip, ManagerID, EmployeeLastName)
+VALUES 
+(100, 'Gern', 'Marketing Manager', '02NOV1999', '400 Temple Ave.', 'Pomona', 'CA', '91768', 210, 'Blanston'),
+(110, 'Tim', 'Sales Representative', '07DEC2002', '200 Nutty Blvd.', 'Walnut', 'CA', '91788', 100, 'Berwulf'),
+(120, 'Elmer', 'Sales Representative', '15MAR2004', '312 Indian Hill', 'Claremont', 'CA', '91711', 100, 'Phudd'),
+(130, 'James', 'Product Development Associate', '07JUL2007', '1007 Bonita Ave.', 'San Dimas', 'CA', '91773', 190, 'Bond'),
+(140, 'Indiana', 'Collection Agent', '14JUL2000', '23 Imperial Hwy.', 'Brea', 'CA', '92821', 190, 'Jones'),
+(150, 'Arnold', 'Sales Representative', '02FEB2008', '45 State College', 'Fullerton', 'CA', '92831', 100, 'Ziffle'),
+(160, 'Sam', 'Sales Representative', '20SEP2006', '3760 Village Center', 'Yorba Linda', 'CA', '92886', 100, 'Drucker'),
+(170, 'Jethrow', 'Accountant', '01APR2010', '501 Red Gum', 'Pomona', 'CA', '91768', 190, 'Bodene'),
+(180, 'Milburn', 'Sales Representative', '29MAY2011', '22 Acorn St.', 'Walnut', 'CA', '91788', 100, 'Driesdale'),
+(190, 'Jane', 'Administration Manager', '22OCT2000', '230 Harvard St.', 'Claremont', 'CA', '91711', 210, 'Hathoway'),
+(200, 'Kate', 'Receptionist', '01AUG2012', '866 Mall St.', 'Brea', 'CA', '92821', 190, 'Bradley'),
+(210, 'Thurston', 'General Manager', '31JAN1995', '3000 Black Forrest Ln.', 'Yorba Linda', 'CA', '92885', null, 'HowellIII'),
+(220, 'Jonas', 'Internal Auditor', '09JUL2013', '242 San Dimas Ave.', 'San Dimas', 'CA', '91773', 190, 'Grundy'),
+(230, 'Laura', 'Sales Secretary', '20MAY2010', '14012 Indian Hill', 'Claremont', 'CA', '91711', 100, 'Croft'),
+(240, 'Homer', 'Sales Trainee', '25AUG2014', '35621 Foothill', 'Rancho Cucamonga', 'CA', '91701', 100, 'Simpson'),
+(250, 'Norman', 'Sales Representative', '27APR2013', '444 A Street', 'La Verne', 'CA', '91750', 100, 'Bates')
+
+SELECT *
+FROM EMPLOYEE_t

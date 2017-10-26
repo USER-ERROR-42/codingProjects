@@ -1,0 +1,21 @@
+INSERT INTO PRODUCT_t
+(ProductID, ProductDescription, UnitPrice, StockQuantity)
+VALUES 
+(1700, 'Ironing Board', 25, 984),
+(5252, '9-Iron Golf CLub', 120, 453),
+(5253, '8-Iron Golf CLub', 120, 0),
+(5254, '7-Iron Golf CLub', 120, 452),
+(5255, '6-Iron Golf CLub', 120, 377),
+(5256, '5-Iron Golf CLub', 120, 12),
+(5257, '4-Iron Golf CLub', 120, 4253),
+(5258, '3-Iron Golf CLub', 120, 123),
+(5260, 'Driver Golf CLub', 220, 7856),
+(5261, '3-Wood Golf CLub', 200, 564),
+(5262, '5-Wood Golf CLub', 200, 93789),
+(5263, 'Golf Bag', 150, 425),
+(5271, 'Putter Golf Club', 160, 378),
+(5291, 'Eggshell Golf Balls', 24, 314159),
+
+(5530, 'Saw Blade', 6, 666),
+
+(5531, 'Saw Handle', 12, 7412)

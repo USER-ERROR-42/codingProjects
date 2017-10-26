@@ -1,0 +1,14 @@
+INSERT INTO COURSE_t
+(CourseID, CourseDescription)
+VALUES 
+(90, 'Neophite'),
+(96, 'Intro Sales Training'),
+(98, 'Sales Management'),
+(91, 'Accounting Reports'),
+(95, 'Sales Prospect Hunting'),
+(97, 'Advanced Sales Training'),
+(92, 'Customer Relations'),
+(99, 'Executive Management')
+
+SELECT *
+FROM COURSE_t

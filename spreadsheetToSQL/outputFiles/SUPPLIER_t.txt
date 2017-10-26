@@ -1,0 +1,16 @@
+INSERT INTO SUPPLIER_t
+(SupplierID, SupplierName, SupplierStreet, SupplierZip, SupplierState, SupplierCity)
+VALUES 
+(10, 'Electronics Gadgets Manufacturing Company', '221 Silicon Valley Blvd', '94039-7542', 'CA', 'Mt. View'),
+(20, 'Mad Scientists` Basement Corporation', '714 Old Spring Way', '28166', 'NC', 'Troutman'),
+(30, 'Ultra Cheap Consumables', '1840 Stonebook Dr.', '37923', 'TN', 'Knoxville'),
+(40, 'Odds and Ends Manufacturing', '1 Lost Wallet Lane', '90245', 'CA', 'El Sugundo'),
+(50, 'Wild Swing Golf', '40 Knotts Alley', '37022', 'GA', 'Agusta Winds'),
+(60, 'Shocking Electrical Gizmos', '18 Toxic Sludge Blvd.', '08608', 'NJ', 'Dismal Seepage'),
+(70, 'Iron Man Tools', '1312 Ena Rd.', '96818', 'HI', 'Honolulu'),
+(80, 'Eine-Steen and Frankenburger Supplies', '627 Kaumaka Place', '96825', 'HI', 'Honolulu'),
+(15, 'Alarms and Things, Inc.', '100 Brooklin Bridge', '10016', 'NY', 'New York'),
+(18, 'Yamaha Snow Fun', '32 Degree Street', '48712', 'MN', 'Frigid')
+
+SELECT *
+FROM SUPPLIER_t
